@@ -5,3 +5,11 @@
 layout: default
 ---
 Hello world!
+
+<embed 
+       type="text/html" 
+       src="map.html"
+       width="1100"
+       height="600"
+       >
+<!-- </embed> -->
