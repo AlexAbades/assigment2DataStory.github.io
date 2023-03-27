@@ -15,6 +15,8 @@ We highly believe that vehicle theft decreased drastically due to the fact that 
 Analyzing in depth we have found that the number of crimes increased from the beginning of the period, reaching a high at 1714 incidents in November 2005, followed by a sharply decrease at 567 crimes in February 2006. Then, the number of reported incidents of this category remained relatively stable for the rest of the period.
 
 One possibility of the decrease on Drug/Narcotic and Prostitution crimes is that law enforcement agencies implemented targeted strategies to reduce this crimes since this time period. For instance, they may have increased police presence in high-risk areas, implemented sting operations to catch this crimes in the act, or provided education campaigns to raise awareness about how to prevent them.
+
+
 Focusing in Drug/Narcotic we can clearly conclude that the graph shows an increasing trend at the beginning of the period from April 2007 to March 2009 (high of 1242 crimes). Then, the number of Drug/Narcotic incidents began to decrease steadily until the end of the period reaching at only 301 incidents.
 In the othr hand, the Prostitution crimes trend follows similar pattern with Drug/Narcotic category, having more fluctuations with bigger spikes at the beginning of the period. In July 2008, there were the high of 223 prostitution crimes, and this number steadily decreased over the next few years to reach a low of 53 in November 2011. However, after this year, the number of prostitution incidents remained stable around the 50 incidents until the end of the period.
 </div>
@@ -46,14 +48,27 @@ Disorderly conduct is a broad term used to describe a variety of disruptive beha
 During this time period, the number of disorderly conduct incidents reported in San Francisco var-ied from year to year. In some years, the number of incidents decreased, while in other years, the number increased. However, overall, the trend was an increase in the number of incidents report-ed over the 15-year period.
 The data suggests that the highest number of disorderly conduct incidents occurred in 2017, with over 6,000 reported incidents. This was a significant increase from the approximately 2,000 inci-dents reported in 2003.
 
+
 Trespassing in San Francisco has fluctuated a lot in the last years, we focus on 2003 to 2017. The graph shows that the number of Trespassing incidents rose from 1,374 in 2003 and the number staedily increased yearrly until it reached a peak of 2,772 in August 2005. After this peak, the number of Trespassing incidents decreased gradually, with some fluctuations among the years, to 1,618 in 2017. There are many posibilities to explain this decrease: property ownership, access to public spaces, population density... could all play a role in the number of reported Trespassing incidents.
+
 
 Drunkness, which is categorized as a type of disorderly conduct, has varied in the San Francisco city from the years 2003 to 2017.  
 In the early years, the number of reported drunkness incidents hovered around 2,000 cases per year. However, in 2009, the city saw a spike in the number of incidents, with 3,354 reported cases. This high point was followed by a decrease in incidents over the next several years, with the number of reported cases dropping to 2,580 in 2014. Afterwards, the amount of drunkness incidets reached another peak with 3,356 incidents. The spikes could be attributed to a number of factors, including a surge in tourism, nightlife, and the use of ride-sharing services, which may have made it easier for people to go out and drink without worrying about how they would get home. After 2015 and until 2017 the number of drunkess remain somhow stable around the 3000 incidents. 
 
+
 Finally, we analized what happened with the driving under the influence crimes. For the 2013 to 2017 period San Francisco saw a fluctuation in the number of incidents reported. From 2003 San Franciso had a posiive trend for this crime type, arriving into a peak of 1318 incidents in February 2005. This could potentially be due to a lack of awareness about the dangers of drunk driving or less strict enforcement of DUI laws. 
 After that peak, people apparently began to be more self-conciouss, as the amount of incidents steadily decreased in he next years, arriving to 393 incidents in August 2013. After 2013, the amount of incidents remained stable with ocasional fluctuations, but with a neutral trend. 
 We could say that the continously effort from the enforcment agencies to drop down the amount of incidents yielded results on changeing the social attitude towards drinking and driving. 
+
+
+<!-- Add a few empty lines at the end of the document -->
+<br>
+<br>
+<br>
+
+
+
+
 
 </div>
 
