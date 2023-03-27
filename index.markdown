@@ -6,7 +6,7 @@ layout: default
 ---
 
 <div style="text-align: justify;">
-       <h1>Analysis of crimes commited in San Francisco from 2003 to 2017</h1>
+       <h1>Monthly time series plot for each category</h1>
 </div>
 
 <div style="text-align: justify;">
@@ -18,6 +18,7 @@ Generally, Larceny/Theft and Assault are the categories with the highest number 
 <br>
 <div style="text-align: justify;">
 We highly believe that vehicle theft decreased drastically due to the fact that security technology improved during this time, making it more difficult for thieves to steal cars. For example, many vehicles manufactured after 2004 have built-in immobilizer systems, which prevent the engine from starting without a key that contains a microchip. This could have made it more difficult for thieves to steal newer cars, leading to a decrease in overall auto theft. <br>
+
 Analyzing in depth we have found that the number of crimes increased from the beginning of the period, reaching a high at 1714 incidents in November 2005, followed by a sharply decrease at 567 crimes in February 2006. Then, the number of reported incidents of this category remained relatively stable for the rest of the period.
 <br>
 <br>
@@ -39,7 +40,7 @@ In the othr hand, the Prostitution crimes trend follows similar pattern with Dru
 <embed 
        type="text/html" 
        src="time_series_plot.html"
-       width="1000"
+       width="1050"
        height="1700"
        >
 <center>
@@ -49,7 +50,7 @@ In the othr hand, the Prostitution crimes trend follows similar pattern with Dru
 <br>
 <br>
 
-Starting with the Assault category over the years, the number of reported crimes fluctuates significantly from month to month and from year to year. Furthermore, we can notice that lower numbers of incidents reported in the winter months from December to February. In August 2017, we see the highest number of ASSAULT crimes which is equal to 1101 incidents.
+Continuing with the Assault category over the years, the number of reported crimes fluctuates significantly from month to month and from year to year. Furthermore, we can notice that lower numbers of incidents reported in the winter months from December to February. In August 2017, we see the highest number of ASSAULT crimes which is equal to 1101 incidents.
 According to Robbery category, from 2003 to June 2005, the number of reported robberies remained relatively stable, with a few spikes in certain months. However, from the aforementioned period onwards, there was a clear upward trend, with the number of reported robberies steadily increasing until peeking in June 2006 (429 crimes). After that, there was a rapid decrease in the number of reported robberies for six months, followed by fluctuations until the end of the period with the smallest spike in March 2016 (215 crimes).
 In terms of Vandalism, the overall trend shows a gradual increase in the number of reported incidents over time reaching a peak at 976 incidents in June 2017. <br>
 <br>
@@ -57,11 +58,14 @@ In terms of Vandalism, the overall trend shows a gradual increase in the number 
 In the next plot, the number of reported burglaries reached a peak at 696 incidents in January 2005. However, from August 2006 onwards, there was a clear downward trend, with the number of reported burglaries steadily decreasing until hitting a low of 309 incidents in February 2011. Afterwards, there was a slight increase in incidents until November 2012, followed by a relatively stable period until the end.<br>
 <br>
 
-In Stolen Property graph, the number of reported crimes remains stable at roughly 50 incidents until 30 April 2011. Then, there was a clear upward trend, with the number of reported incidents steadily increasing until October 2013 (119 incidents), followed by a steadily decrease until the end of the period (56 incidents).<br>
+In Stolen Property graph, the number of reported crimes remains stable at roughly 50 incidents until 30 April 2011. Then, there was a clear upward trend, with the number of reported incidents steadily increasing until October 2013 with 119 incidents have been reported (you can read more in this article: <a href="https://www.latimes.com/local/crime/la-me-aa2-snapshot-sf-crime-20141120-story.html">San Francisco sees sharp rise in property and violent crimes - Los Angeles Times</a>, followed by a steadily decrease until the end of the period (56 incidents). 
+<br>
 <br>
 
-The monthly analysis of Weapon Laws trend shows that the number of weapon laws incidents fluctuated over the years, but generally showed a slightly increasing trend from the middle of period. Specifically, the Weapon Laws crimes reached a low of 55 incidents in February 2011, followed by an increase reaching at 171 incidents at the end of the period.
-Regarding to the Larceny/Theft incidents graph, the number of crimes remain stable around 2000 incidents from the beginning of the period to March 2012, followed by a steadily increase to 4457 incidents in October 2017.<br>
+The monthly analysis of Weapon Laws trend shows that the number of weapon laws incidents fluctuated over the years, but generally showed a slightly increasing trend from the middle of period. Specifically, the Weapon Laws crimes reached a low of 55 incidents in February 2011, followed by an increase reaching at 171 incidents at the end of the period. 
+
+Regarding to the Larceny/Theft incidents graph, the number of crimes remain stable around 2000 incidents from the beginning of the period to March 2012, followed by a steadily increase to 4457 incidents in October 2017. Confirming this trend by this article: <a href="https://www.sfexaminer.com/news/why-did-sf-have-among-highest-increases-in-larceny-in-the-state-in-early-2013/article_b8643545-8d94-5389-aa35-960dce895d6d.html">Why did SF have among highest increases in larceny in the state in early 2013<a> which confirms that San Francisco police started to report a significant increase in Larceny/Theft incidents in early 2013 probably due to a change in reporting methods or due to link to the spike in cell phone thefts. 
+<br>
 <br>
 
 Disorderly conduct is a broad term used to describe a variety of disruptive behaviors, including public intoxication, disturbing the peace, and causing a disturbance in public places.
