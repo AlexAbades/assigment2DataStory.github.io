@@ -5,6 +5,9 @@
 layout: default
 ---
 
+<div style="text-align: justify;">
+       <h1>Analysis of crimes commited in San Francisco from 2003 to 2017</h1>
+</div>
 
 <div style="text-align: justify;">
 <br>
@@ -86,8 +89,9 @@ We could say that the continously effort from the enforcment agencies to drop do
 </div>
 
 <div style="text-align: justify;">
-<h1>Prostitution Category: Map analysis</h1>
+       <h1>Prostitution Category: Map analysis</h1>
 </div>
+
 <div style="text-align: justify;">
 Afterwards, we would like to investigate more about the Prostitution category. Using the map above, we discovered the most suspicious areas where this type of crime occurs. Using two different time periods, we displayed the incidents in the map from 2007-2009 in red colour and from 2016 to 2017 in blue colour respectively. We chose the period from 2007 to 2009 because this period has the highest number of incidents according to the aforementioned monthly time series plot. According to the map visualization, it is clear that the high-incident area shifted from north-central San Francisco to south-central along the Van Ness Avenue. In map, we can notice that in 2016-2017 period there are many incidents in the area enclosed by 7th, Mission, 21st and Folsom streets. The purpose of this analysis is to inform residents and police officers of the high probability that this type of crime will occur in this region the upcoming period.
 <br>
@@ -104,7 +108,10 @@ Afterwards, we would like to investigate more about the Prostitution category. U
       >
 
 
-# Analysis of the crimes by hour
+<div style="text-align: justify;">
+       <h1>Analysis of the crimes by hour</h1>
+</div>
+
 
 <div style="text-align: justify;">
 <br>
