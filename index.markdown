@@ -5,21 +5,25 @@
 layout: default
 ---
 
+<div style="text-align: justify;">
 We investigated and analysed the crimes reported in San Francisco from 2003 to 2017. Firstly, we created a monthly time series plot for each category of the 14 most important crimes over the years to investigate their trends. 
-
+</div>
+<div style="text-align: justify;">
 Generally, Larceny/Theft and Assault are the categories with the highest number of crimes. Namely, the Larceny/Theft crimes have doubled compared to the beginning of the period. In contrary, the most significant decrease of less than half of the number of incidents compared to the beginning of the period is observed in the Vehicle Theft, Drug/Narcotic and Prostitution categories.
 We highly believe that vehicle theft decreased drastically due to the fact that security technology improved during this time, making it more difficult for thieves to steal cars. For example, many vehicles manufactured after 2004 have built-in immobilizer systems, which prevent the engine from starting without a key that contains a microchip. This could have made it more difficult for thieves to steal newer cars, leading to a decrease in overall auto theft.
-
+</div>
 
 <embed 
        type="text/html" 
        src="time_series_plot.html"
        width="1100"
-       height="1200"
+       height="2200"
        >
 
 
+<div style="text-align: justify;">
 Generally, Larceny/Theft and Assault are the categories with the highest number of crimes. Namely, the Larceny/Theft crimes have doubled compared to the beginning of the period. In contrary, the most significant decrease of less than half of the number of incidents compared to the beginning of the period is observed in the Vehicle Theft, Drug/Narcotic and Prostitution categories.
+</div>
 
 <embed 
       type="text/html" 
@@ -37,7 +41,7 @@ All the other districts follow a pretty similar trend, with slightly different p
        type="text/html" 
        src="bar_plot.html"
        width="1100"
-       height="600"
+       height="700"
        >
 
 Almost every plot (except for the Tenderloin District) has two mysterious sudden changes. The first one is a sharp increase of the number of crimes at 12 am (about 25% increase), and the other one is a sudden decrease of the number of crimes at 1am (more or less 50% decrease). After doing some research online, nothing was found that could describe these behaviors, so we tried to come up with some plausible scenarios that could explain these trends. So these could either be a human error (rounding the reported time towards 12 am) or there were shift changes happening during those hours, or it could just be a regular thing that crime rises (or drops) during those hours.
