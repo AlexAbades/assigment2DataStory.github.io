@@ -6,6 +6,7 @@ layout: default
 ---
 
 <div style="text-align: justify;">
+
 We investigated and analysed the crimes reported in San Francisco from 2003 to 2017. Firstly, we created a monthly time series plot for each category of the 14 most important crimes over the years to investigate their trends. 
 </div>
 <div style="text-align: justify;">
@@ -39,30 +40,34 @@ In the othr hand, the Prostitution crimes trend follows similar pattern with Dru
 Starting with the Assault category over the years, the number of reported crimes fluctuates significantly from month to month and from year to year. Furthermore, we can notice that lower numbers of incidents reported in the winter months from December to February. In August 2017, we see the highest number of ASSAULT crimes which is equal to 1101 incidents.
 According to Robbery category, from 2003 to June 2005, the number of reported robberies remained relatively stable, with a few spikes in certain months. However, from the aforementioned period onwards, there was a clear upward trend, with the number of reported robberies steadily increasing until peeking in June 2006 (429 crimes). After that, there was a rapid decrease in the number of reported robberies for six months, followed by fluctuations until the end of the period with the smallest spike in March 2016 (215 crimes).
 In terms of Vandalism, the overall trend shows a gradual increase in the number of reported incidents over time reaching a peak at 976 incidents in June 2017. <br>
+<br>
 
 In the next plot, the number of reported burglaries reached a peak at 696 incidents in January 2005. However, from August 2006 onwards, there was a clear downward trend, with the number of reported burglaries steadily decreasing until hitting a low of 309 incidents in February 2011. Afterwards, there was a slight increase in incidents until November 2012, followed by a relatively stable period until the end.<br>
 <br>
 
-In Stolen Property graph, the number of reported crimes remains stable at roughly 50 incidents until 30 April 2011. Then, there was a clear upward trend, with the number of reported incidents steadily increasing until October 2013 (119 incidents), followed by a steadily decrease until the end of the period (56 incidents).
+In Stolen Property graph, the number of reported crimes remains stable at roughly 50 incidents until 30 April 2011. Then, there was a clear upward trend, with the number of reported incidents steadily increasing until October 2013 (119 incidents), followed by a steadily decrease until the end of the period (56 incidents).<br>
+<br>
 
 The monthly analysis of Weapon Laws trend shows that the number of weapon laws incidents fluctuated over the years, but generally showed a slightly increasing trend from the middle of period. Specifically, the Weapon Laws crimes reached a low of 55 incidents in February 2011, followed by an increase reaching at 171 incidents at the end of the period.
-Regarding to the Larceny/Theft incidents graph, the number of crimes remain stable around 2000 incidents from the beginning of the period to March 2012, followed by a steadily increase to 4457 incidents in October 2017.
+Regarding to the Larceny/Theft incidents graph, the number of crimes remain stable around 2000 incidents from the beginning of the period to March 2012, followed by a steadily increase to 4457 incidents in October 2017.<br>
+<br>
 
 Disorderly conduct is a broad term used to describe a variety of disruptive behaviors, including public intoxication, disturbing the peace, and causing a disturbance in public places.
 During this time period, the number of disorderly conduct incidents reported in San Francisco var-ied from year to year. In some years, the number of incidents decreased, while in other years, the number increased. However, overall, the trend was an increase in the number of incidents report-ed over the 15-year period.
-The data suggests that the highest number of disorderly conduct incidents occurred in 2017, with over 6,000 reported incidents. This was a significant increase from the approximately 2,000 inci-dents reported in 2003.
+The data suggests that the highest number of disorderly conduct incidents occurred in 2017, with over 6,000 reported incidents. This was a significant increase from the approximately 2,000 inci-dents reported in 2003.<br>
+<br>
 
-
-Trespassing in San Francisco has fluctuated a lot in the last years, we focus on 2003 to 2017. The graph shows that the number of Trespassing incidents rose from 1,374 in 2003 and the number staedily increased yearrly until it reached a peak of 2,772 in August 2005. After this peak, the number of Trespassing incidents decreased gradually, with some fluctuations among the years, to 1,618 in 2017. There are many posibilities to explain this decrease: property ownership, access to public spaces, population density... could all play a role in the number of reported Trespassing incidents.
-
+Trespassing in San Francisco has fluctuated a lot in the last years, we focus on 2003 to 2017. The graph shows that the number of Trespassing incidents rose from 1,374 in 2003 and the number staedily increased yearrly until it reached a peak of 2,772 in August 2005. After this peak, the number of Trespassing incidents decreased gradually, with some fluctuations among the years, to 1,618 in 2017. There are many posibilities to explain this decrease: property ownership, access to public spaces, population density... could all play a role in the number of reported Trespassing incidents.<br>
+<br>
 
 Drunkness, which is categorized as a type of disorderly conduct, has varied in the San Francisco city from the years 2003 to 2017.  
-In the early years, the number of reported drunkness incidents hovered around 2,000 cases per year. However, in 2009, the city saw a spike in the number of incidents, with 3,354 reported cases. This high point was followed by a decrease in incidents over the next several years, with the number of reported cases dropping to 2,580 in 2014. Afterwards, the amount of drunkness incidets reached another peak with 3,356 incidents. The spikes could be attributed to a number of factors, including a surge in tourism, nightlife, and the use of ride-sharing services, which may have made it easier for people to go out and drink without worrying about how they would get home. After 2015 and until 2017 the number of drunkess remain somhow stable around the 3000 incidents. 
-
+In the early years, the number of reported drunkness incidents hovered around 2,000 cases per year. However, in 2009, the city saw a spike in the number of incidents, with 3,354 reported cases. This high point was followed by a decrease in incidents over the next several years, with the number of reported cases dropping to 2,580 in 2014. Afterwards, the amount of drunkness incidets reached another peak with 3,356 incidents. The spikes could be attributed to a number of factors, including a surge in tourism, nightlife, and the use of ride-sharing services, which may have made it easier for people to go out and drink without worrying about how they would get home. After 2015 and until 2017 the number of drunkess remain somhow stable around the 3000 incidents. <br>
+<br>
 
 Finally, we analized what happened with the driving under the influence crimes. For the 2013 to 2017 period San Francisco saw a fluctuation in the number of incidents reported. From 2003 San Franciso had a posiive trend for this crime type, arriving into a peak of 1318 incidents in February 2005. This could potentially be due to a lack of awareness about the dangers of drunk driving or less strict enforcement of DUI laws. 
 After that peak, people apparently began to be more self-conciouss, as the amount of incidents steadily decreased in he next years, arriving to 393 incidents in August 2013. After 2013, the amount of incidents remained stable with ocasional fluctuations, but with a neutral trend. 
-We could say that the continously effort from the enforcment agencies to drop down the amount of incidents yielded results on changeing the social attitude towards drinking and driving. 
+We could say that the continously effort from the enforcment agencies to drop down the amount of incidents yielded results on changeing the social attitude towards drinking and driving. <br>
+<br>
 
 
 <!-- Add a few empty lines at the end of the document -->
@@ -71,6 +76,13 @@ We could say that the continously effort from the enforcment agencies to drop do
 <br>
 </div>
 
+<div style="text-align: justify;">
+# Prostitution Category: Map analysis
+</div>
+
+<div style="text-align: justify;">
+Afterwards, we would like to investigate more about the Prostitution category. Using the map above, we discovered the most suspicious areas where this type of crime occurs. Using two different time periods, we displayed the incidents in the map from 2007-2009 in red colour and from 2016 to 2017 in blue colour respectively. We chose the period from 2007 to 2009 because this period has the highest number of incidents according to the aforementioned monthly time series plot. According to the map visualization, it is clear that the high-incident area shifted from north-central San Francisco to south-central along the Van Ness Avenue. In map, we can notice that in 2016-2017 period there are many incidents in the area enclosed by 7th, Mission, 21st and Folsom streets. The purpose of this analysis is to inform residents and police officers of the high probability that this type of crime will occur in this region the upcoming period.
+</div>
 <embed 
       type="text/html" 
       src="map_folium_SF.html"
