@@ -18,14 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Social Data Analysis
-email: your-email@example.com
+title: Social Data Analysis Assigment 2
+email: s212784@student.dtu.dk, s212859@student.dtu.dk, s222751@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Assigment 2
+  Crimes in San Francisco have been a concern for many years, and the city has been working to decrease their number. 
+  In order to understand the pattern of crimes reported in the city, data from 2003 to 2017 was collected and analyzed. 
+  The data includes various types of crimes such as theft, robbery, burglary, and homicide, and was visualized using a variety of plots. 
+  In this assignment, we will focus on one of these plots, which is a bar chart that shows the number of crimes reported in different districts 
+  of San Francisco over a certain period of time. We will discuss the insights we can draw from this plot and how they can help us to better understand
+   the crime situation in the city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  
 
 # Build settings
 # theme: minima
