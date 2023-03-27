@@ -21,6 +21,9 @@ One possibility of the decrease on Drug/Narcotic and Prostitution crimes is that
 <div style="text-align: justify;">
 Focusing in Drug/Narcotic we can clearly conclude that the graph shows an increasing trend at the beginning of the period from April 2007 to March 2009 (high of 1242 crimes). Then, the number of Drug/Narcotic incidents began to decrease steadily until the end of the period reaching at only 301 incidents.
 In the othr hand, the Prostitution crimes trend follows similar pattern with Drug/Narcotic category, having more fluctuations with bigger spikes at the beginning of the period. In July 2008, there were the high of 223 prostitution crimes, and this number steadily decreased over the next few years to reach a low of 53 in November 2011. However, after this year, the number of prostitution incidents remained stable around the 50 incidents until the end of the period.
+<br>
+<br>
+<br>
 </div>
 
 <center>
@@ -76,12 +79,15 @@ We could say that the continously effort from the enforcment agencies to drop do
 <br>
 </div>
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
 # Prostitution Category: Map analysis
-</div>
+</div> -->
 
 <div style="text-align: justify;">
 Afterwards, we would like to investigate more about the Prostitution category. Using the map above, we discovered the most suspicious areas where this type of crime occurs. Using two different time periods, we displayed the incidents in the map from 2007-2009 in red colour and from 2016 to 2017 in blue colour respectively. We chose the period from 2007 to 2009 because this period has the highest number of incidents according to the aforementioned monthly time series plot. According to the map visualization, it is clear that the high-incident area shifted from north-central San Francisco to south-central along the Van Ness Avenue. In map, we can notice that in 2016-2017 period there are many incidents in the area enclosed by 7th, Mission, 21st and Folsom streets. The purpose of this analysis is to inform residents and police officers of the high probability that this type of crime will occur in this region the upcoming period.
+<br>
+<br>
+<br>
 </div>
 <embed 
       type="text/html" 
@@ -89,6 +95,11 @@ Afterwards, we would like to investigate more about the Prostitution category. U
       width="1100"
       height="600"
       >
+
+<!-- <div style="text-align: justify;">
+# Analysis of the crimes by hour
+</div> -->
+
 
 <div style="text-align: justify;">
 Below we are presented with the hourly bar plot of crimes committed in the different districts of San Francisco. Starting with the Bayview district, the hourly plot shows that most crimes occur during the late afternoon and early evening hours, with the peak occurring between 4 pm and 7 pm. The number of reported incidents decreases during the early morning hours and reaches its lowest point between 3 am and 5 am.
