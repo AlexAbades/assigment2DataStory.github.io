@@ -79,9 +79,9 @@ We could say that the continously effort from the enforcment agencies to drop do
 <br>
 </div>
 
-<!-- <div style="text-align: justify;">
+<div style="text-align: justify;">
 # Prostitution Category: Map analysis
-</div> -->
+</div>
 
 <div style="text-align: justify;">
 Afterwards, we would like to investigate more about the Prostitution category. Using the map above, we discovered the most suspicious areas where this type of crime occurs. Using two different time periods, we displayed the incidents in the map from 2007-2009 in red colour and from 2016 to 2017 in blue colour respectively. We chose the period from 2007 to 2009 because this period has the highest number of incidents according to the aforementioned monthly time series plot. According to the map visualization, it is clear that the high-incident area shifted from north-central San Francisco to south-central along the Van Ness Avenue. In map, we can notice that in 2016-2017 period there are many incidents in the area enclosed by 7th, Mission, 21st and Folsom streets. The purpose of this analysis is to inform residents and police officers of the high probability that this type of crime will occur in this region the upcoming period.
@@ -89,6 +89,8 @@ Afterwards, we would like to investigate more about the Prostitution category. U
 <br>
 <br>
 </div>
+
+
 <embed 
       type="text/html" 
       src="map_folium_SF.html"
@@ -102,9 +104,14 @@ Afterwards, we would like to investigate more about the Prostitution category. U
 
 
 <div style="text-align: justify;">
+<br>
+<br>
+<br>
 Below we are presented with the hourly bar plot of crimes committed in the different districts of San Francisco. Starting with the Bayview district, the hourly plot shows that most crimes occur during the late afternoon and early evening hours, with the peak occurring between 4 pm and 7 pm. The number of reported incidents decreases during the early morning hours and reaches its lowest point between 3 am and 5 am.
 All the other districts follow a pretty similar trend, with slightly different peaks (e.g. some might have their peaks at 5 pm while others at 6 pm), and slightly shifted lows. However, in some cases the pattern might vary to some degree. For example, in the Northern and Southern districts, although the plots have a similar behavior to the one described above, the number of reported incidents remains relatively high during the late evening hours and early morning hours.
-
+<br>
+<br>
+<br>
 
 </div>
 
@@ -118,9 +125,13 @@ All the other districts follow a pretty similar trend, with slightly different p
 
 
 <div style="text-align: justify;">
-
+<br>
+<br>
+<br>
 
 Almost every plot (except for the Tenderloin District) has two mysterious sudden changes. The first one is a sharp increase of the number of crimes at 12 am (about 25% increase), and the other one is a sudden decrease of the number of crimes at 1am (more or less 50% decrease). After doing some research online, nothing was found that could describe these behaviors, so we tried to come up with some plausible scenarios that could explain these trends. So these could either be a human error (rounding the reported time towards 12 am) or there were shift changes happening during those hours, or it could just be a regular thing that crime rises (or drops) during those hours.
 
-
+<br>
+<br>
+<br>
 </div>
