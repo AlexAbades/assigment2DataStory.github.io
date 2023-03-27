@@ -70,12 +70,15 @@ All the other districts follow a pretty similar trend, with slightly different p
 
 
 </div>
+
+
 <embed 
        type="text/html" 
        src="bar_plot.html"
        width="1100"
        height="700"
        >
+
 
 <div style="text-align: justify;">
 
