@@ -5,18 +5,24 @@
 layout: default
 ---
 
-<div style="text-align: justify;">
 
+<div style="text-align: justify;">
+<br>
 We investigated and analysed the crimes reported in San Francisco from 2003 to 2017. Firstly, we created a monthly time series plot for each category of the 14 most important crimes over the years to investigate their trends. 
 </div>
 <div style="text-align: justify;">
 Generally, Larceny/Theft and Assault are the categories with the highest number of crimes. Namely, the Larceny/Theft crimes have doubled compared to the beginning of the period. In contrary, the most significant decrease of less than half of the number of incidents compared to the beginning of the period is observed in the Vehicle Theft, Drug/Narcotic and Prostitution categories.
+<br>
 <div style="text-align: justify;">
 We highly believe that vehicle theft decreased drastically due to the fact that security technology improved during this time, making it more difficult for thieves to steal cars. For example, many vehicles manufactured after 2004 have built-in immobilizer systems, which prevent the engine from starting without a key that contains a microchip. This could have made it more difficult for thieves to steal newer cars, leading to a decrease in overall auto theft. <br>
 Analyzing in depth we have found that the number of crimes increased from the beginning of the period, reaching a high at 1714 incidents in November 2005, followed by a sharply decrease at 567 crimes in February 2006. Then, the number of reported incidents of this category remained relatively stable for the rest of the period.
+<br>
+<br>
 </div>
 <div style="text-align: justify;">
 One possibility of the decrease on Drug/Narcotic and Prostitution crimes is that law enforcement agencies implemented targeted strategies to reduce this crimes since this time period. For instance, they may have increased police presence in high-risk areas, implemented sting operations to catch this crimes in the act, or provided education campaigns to raise awareness about how to prevent them.
+<br>
+<br>
 </div>
 <div style="text-align: justify;">
 Focusing in Drug/Narcotic we can clearly conclude that the graph shows an increasing trend at the beginning of the period from April 2007 to March 2009 (high of 1242 crimes). Then, the number of Drug/Narcotic incidents began to decrease steadily until the end of the period reaching at only 301 incidents.
@@ -79,9 +85,9 @@ We could say that the continously effort from the enforcment agencies to drop do
 <br>
 </div>
 
-
-# Prostitution Category: Map analysis
-
+<div style="text-align: justify;">
+<h1>Prostitution Category: Map analysis</h1>
+</div>
 <div style="text-align: justify;">
 Afterwards, we would like to investigate more about the Prostitution category. Using the map above, we discovered the most suspicious areas where this type of crime occurs. Using two different time periods, we displayed the incidents in the map from 2007-2009 in red colour and from 2016 to 2017 in blue colour respectively. We chose the period from 2007 to 2009 because this period has the highest number of incidents according to the aforementioned monthly time series plot. According to the map visualization, it is clear that the high-incident area shifted from north-central San Francisco to south-central along the Van Ness Avenue. In map, we can notice that in 2016-2017 period there are many incidents in the area enclosed by 7th, Mission, 21st and Folsom streets. The purpose of this analysis is to inform residents and police officers of the high probability that this type of crime will occur in this region the upcoming period.
 <br>
@@ -97,10 +103,8 @@ Afterwards, we would like to investigate more about the Prostitution category. U
       height="600"
       >
 
-<!-- <div style="text-align: justify;">
-# Analysis of the crimes by hour
-</div> -->
 
+# Analysis of the crimes by hour
 
 <div style="text-align: justify;">
 <br>
