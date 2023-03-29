@@ -47,9 +47,6 @@ In Stolen Property graph, the number of reported crimes remains stable at roughl
 <center>
 
 <div style="text-align: justify;">
-<br>
-<br>
-<br>
 According to vehicle theft category, we notice that number of crimes increased from the beginning of the period, reaching a high at 1714 incidents in November 2005, followed by a sharply decrease at 567 crimes in February 2006. This trend confirmed by this article<a href="https://www.eastbaytimes.com/2007/02/18/auto-thefts-in-state-decline-for-first-time-in-decade-2/">Auto thefts in state decline for first time in decade</a>. Regarding to this article, many residents started to purchase devices that lock vehicles, as well as purchasing vehicle theft and tracking/security systems. Continuing the trend description, the number of reported incidents of this category remained relatively stable for the rest of the period. 
 <br>
 <br>
@@ -114,14 +111,14 @@ Afterwards, we would like to investigate more about the Prostitution category. U
 
 
 <div style="text-align: justify;">
-       
+       <br>
+       <br>
+       <br>
        <h1>Analysis of the crimes by hour</h1>
 </div>
 
 
 <div style="text-align: justify;">
-<br>
-<br>
 <br>
 Below we are presented with the hourly bar plot of crimes committed in the different districts of San Francisco. Starting with the Bayview district, the hourly plot shows that most crimes occur during the late afternoon and early evening hours, with the peak occurring between 4 pm and 7 pm. The number of reported incidents decreases during the early morning hours and reaches its lowest point between 3 am and 5 am.
 All the other districts follow a pretty similar trend, with slightly different peaks (e.g. some might have their peaks at 5 pm while others at 6 pm), and slightly shifted lows. However, in some cases the pattern might vary to some degree. For example, in the Northern and Southern districts, although the plots have a similar behavior to the one described above, the number of reported incidents remains relatively high during the late evening hours and early morning hours.
