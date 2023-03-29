@@ -119,7 +119,6 @@ Afterwards, we would like to investigate more about the Prostitution category. U
 
 
 <div style="text-align: justify;">
-<br>
 Below we are presented with the hourly bar plot of crimes committed in the different districts of San Francisco. Starting with the Bayview district, the hourly plot shows that most crimes occur during the late afternoon and early evening hours, with the peak occurring between 4 pm and 7 pm. The number of reported incidents decreases during the early morning hours and reaches its lowest point between 3 am and 5 am.
 All the other districts follow a pretty similar trend, with slightly different peaks (e.g. some might have their peaks at 5 pm while others at 6 pm), and slightly shifted lows. However, in some cases the pattern might vary to some degree. For example, in the Northern and Southern districts, although the plots have a similar behavior to the one described above, the number of reported incidents remains relatively high during the late evening hours and early morning hours.
 <br>
@@ -138,10 +137,6 @@ All the other districts follow a pretty similar trend, with slightly different p
 
 
 <div style="text-align: justify;">
-<br>
-<br>
-<br>
-
 Almost every plot (except for the Tenderloin District) has two mysterious sudden changes. The first one is a sharp increase of the number of crimes at 12 am (about 25% increase), and the other one is a sudden decrease of the number of crimes at 1am (more or less 50% decrease). After doing some research online, nothing was found that could describe these behaviors, so we tried to come up with some plausible scenarios that could explain these trends. So these could either be a human error (rounding the reported time towards 12 am) or there were shift changes happening during those hours, or it could just be a regular thing that crime rises (or drops) during those hours.
 
 <br>
