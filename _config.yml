@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Crimes in San Francisco have been a concern for many years, and the city has been working to decrease their number. 
   In order to understand the pattern of crimes reported in the city, data from 2003 to 2017 was collected and analyzed. 
   The data includes various types of crimes such as theft, robbery, burglary, and vehicle theft, and was visualized using a variety of plots. 
-  In this assignment, The first is a monthly time series plot about the number of crimes reported for each category,  the second is about 
+  In this assignment. The first is a monthly time series plot about the number of crimes reported for each category,  the second is about 
   a map visualization for prostitution category for two specific time periods and the third is about a bar chart that shows the number of 
-  crimes reported in each PdDistrict . We will explain in detain the key points in these plots to find out interesting patterns over the 
+  crimes reported in each PdDistrict . We will explain in detail the key points in these plots to find out interesting patterns over the 
   aforementioned period.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

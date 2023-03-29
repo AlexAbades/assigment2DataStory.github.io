@@ -9,10 +9,7 @@ layout: default
        <h1>Monthly time series plot for each category</h1>
 </div>
 
-<div style="text-align: justify;">
-<br>
-We investigated and analysed the crimes reported in San Francisco from 2003 to 2017. Firstly, we created a monthly time series plot for each category of the 14 most important crimes over the years to investigate their trends. 
-</div>
+
 <div style="text-align: justify;">
 Generally, Larceny/Theft and Assault are the categories with the highest number of crimes. Namely, the Larceny/Theft crimes have doubled compared to the beginning of the period. In contrary, the most significant decrease of less than half of the number of incidents compared to the beginning of the period is observed in the Vehicle Theft, Drug/Narcotic and Prostitution categories.
 <br>
@@ -117,6 +114,7 @@ Afterwards, we would like to investigate more about the Prostitution category. U
 
 
 <div style="text-align: justify;">
+       
        <h1>Analysis of the crimes by hour</h1>
 </div>
 
